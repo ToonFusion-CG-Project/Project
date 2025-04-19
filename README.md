@@ -31,7 +31,7 @@ This Blender project creates a **ToonFusion Animation** featuring two scenes wit
 
 ### Scene 2: Exterior with Doghouse
 
-- **Setting**: Outside Tom and Jerry's house, featuring a doghouse for Pluto, a tree, and a grassy lawn (modeled from scratch).
+- **Setting**: Outside Tom and Jerry's house, featuring a doghouse for Pluto, a tree, and a grassy lawn (an area of grass).
 - **Characters**: Tom, Jerry, Donald Duck, Pluto, and Mickey Mouse.
 - **Actions**:
     - Tom and Jerry rush out of the house  to investigate the noise.
