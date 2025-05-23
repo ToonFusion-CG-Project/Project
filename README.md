@@ -1,13 +1,6 @@
-
-2025-04-20 02:04
-
-Status: #Done 
-
-Tags: [[Project]] [[Graphics]] [[College]]
-
 ## Project Overview
 
-![[Pasted image 20250520225533.png]]
+![image](https://github.com/user-attachments/assets/1d3dd59f-5e34-4e9d-bc7e-43d29f1ce8e8)
 
 This Blender project creates a **ToonFusion Animation** featuring two scenes with a total duration of 2 minutes. The animation includes cartoon characters: **Tom**, **Jerry**, **Donald Duck**, **Mickey Mouse**, and **Pluto** (Mickey's dog). The scenes are set in and around **Tom and Jerry's house**, including an outdoor area with a doghouse for Pluto.
 
